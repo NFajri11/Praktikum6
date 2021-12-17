@@ -4,9 +4,9 @@ Berikut adalah Latihan menggunakan Lambda
 Ubahlah kode dibawah ini menjadi fungsi menggunakan lambda
 ![gambar1](Screenshot/ss1.png)
 ini adalah source code nya
-![ganbar2](Sreenshot/ss2.png)
+![gambar2](Sreenshot/ss2.png)
 Dan ini adalah hasil output nya
-![ganbar3](Screenshot/ss3.png)
+![gambar3](Screenshot/ss3.png)
 Menggunakan import math untuk memperluas daftar fungsi matematika
 ## Tugas Praktikum 6 (Lambda)
 Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang  <br />akan menampilkan daftar nilai mahasiswa, dengan ketentuan: <br />
